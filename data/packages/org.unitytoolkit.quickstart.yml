@@ -1,0 +1,16 @@
+name: org.unitytoolkit.quickstart
+displayName: Unity Toolkit - Quick Start
+description: Utilities for Unity Project
+repoUrl: https://github.com/UnityToolkit/quickstart
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - editor-enhancement
+hunter: wupojung
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1766671691997
